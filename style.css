@@ -35,6 +35,7 @@ nav {
     font-size: 35px;
     color: #fff;
     cursor: pointer;
+    transition: all 0.4s linear;
 }
 
 
@@ -42,6 +43,7 @@ nav {
     font-family: 'Marck Script', cursive;
     font-size: 55px;
     color: orange;
+    float: left;
 }
 
 .row-container ul span i {
